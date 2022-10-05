@@ -27,6 +27,7 @@
 <p><a href="https://www.buymeacoffee.com/pranayjalan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranayjalan" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranayjalan254&show_icons=true&locale=en&layout=compact" alt="pranayjalan254" /></p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pranayjalan254&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranayjalan254&theme=dark&hide_border=false)<br/>
