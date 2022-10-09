@@ -25,8 +25,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranayjalan254&show_icons=true&locale=en&layout=compact" alt="pranayjalan254" /></p>
 
-<h3 align="left">HacktoberFest 2022 Badges<h3>
-<img align="center" src="https://holopin.io/userbadge/cl913dccr311509jpvhrrjcf9" alt="pranayjalan254" /> <img align="center" src="https://holopin.io/userbadge/cl913dm7t616309jteudtq482" alt="pranayjalan254" /> <img align="center" src="https://holopin.io/userbadge/cl913du7h938609l6qj3f00xz" alt="pranayjalan254" /> <img align="center" src="https://holopin.io/userbadge/cl913dzqh638209jtje28yq3r" alt="pranayjalan254" />
+<h3 align="left">HacktoberFest 2022 Badges: <h3>
+<img align="center" src="[https://holopin.io/userbadge/cl913dccr311509jpvhrrjcf9](https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75)" alt="pranayjalan254" /> <img align="center" src="[https://holopin.io/userbadge/cl913dm7t616309jteudtq482](https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75)" alt="pranayjalan254" /> <img align="center" src="[https://holopin.io/userbadge/cl913du7h938609l6qj3f00xz](https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75)" alt="pranayjalan254" /> <img align="center" src="[https://holopin.io/userbadge/cl913dzqh638209jtje28yq3r](https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75)" alt="pranayjalan254" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pranayjalan254&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
