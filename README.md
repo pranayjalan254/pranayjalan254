@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Full Stack Web development**
 
-- 📝 I regularly write articles on [https://pranayblogs.hashnode.dev/](https://pranayblogs.hashnode.dev/)
+- 📝 I write articles on [https://pranayblogs.hashnode.dev/](https://pranayblogs.hashnode.dev/)
 
 - 💬 Ask me about **HTML5, CSS & Bootstrap**
 
