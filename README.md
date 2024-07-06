@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranaytwts" target="blank"><img src="https://img.shields.io/twitter/follow/pranaytwts?logo=twitter&style=for-the-badge" alt="pranaytwts" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Backend Development**
 
 - 🤝 I’m looking for help with **Full Stack Web development**
 
