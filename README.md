@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranay Jalan</h1>
-<h3 align="center">Building full-stack real world web-applications</h3>
+<h3 align="center">Building GPT Wrappers and AI Agents</h3>
 
-- 🔭 I’m currently working on [DocVault](https://github.com/pranayjalan254/docVault)
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 🤝 I’m looking for help with **Blockchain Development**
-
-- 👨‍💻 All of my projects are available at [https://www.pranayjalan.me](https://www.pranayjalan.me)
+- 👨‍💻 All of my projects are available at [https://www.pranayjalan.me](https://www.pranayjalan.site)
 
 - 📫 How to reach me **pranayjalan.work@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a0gydXn9er2dVoMdp0SAogj5UzQNa4Mm/view](https://drive.google.com/file/d/1a0gydXn9er2dVoMdp0SAogj5UzQNa4Mm/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
