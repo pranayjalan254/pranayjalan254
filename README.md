@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranay Jalan</h1>
 <h3 align="center">Building GPT Wrappers and AI Agents</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.pranayjalan.me](https://www.pranayjalan.site)
+- 👨‍💻 All of my projects are available at [https://www.pranayjalan.site](https://www.pranayjalan.site)
 
 - 📫 How to reach me **pranayjalan.work@gmail.com**
 
